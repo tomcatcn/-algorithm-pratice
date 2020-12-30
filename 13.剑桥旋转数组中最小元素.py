@@ -22,7 +22,7 @@
 
 
 class Solution:
-    def minArray(self, numbers: List[int]) -> int:
+    def minArray(self, numbers) -> int:
         if not numbers:
             return
 

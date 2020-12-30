@@ -1,2 +1,3 @@
+import math
 s = 16 % 10
-print(3 // 2)
+print(type(math.pow(3, 2)))
